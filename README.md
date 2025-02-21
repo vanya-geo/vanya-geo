@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Economist turned data scientist.
+I'm almost done my PhD (Economics, University of Toronto) and I'm eager to (finally!) put my skills toward some practical problems!
+
 <!--
 **vanya-geo/vanya-geo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
